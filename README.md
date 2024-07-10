@@ -11,7 +11,7 @@ systems. These results contribute significantly to the advancement of automatic 
 for researchers in computer vision and energy management fields. The research not only improves the accuracy and efficiency of electric
 meter reading processes but also lays the groundwork for the development of more effective systems. With implications for smart city
 infrastructure and energy conservation initiatives, this study marks a significant step toward a more sustainable and technologically
-advanced energy ecosystem._
+advanced energy ecosystem
 
 
 
